@@ -1,0 +1,58 @@
+﻿<Window x:Class="Media_Player.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Media_Player"
+        mc:Ignorable="d"
+        Title="Media Player" Height="350" Width="525" WindowStartupLocation="CenterScreen" Icon="Icons/play.png">
+    <Grid>
+        <MediaElement x:Name="mediaElement" RenderTransformOrigin="0.5,0.5" Volume="1" Margin="0,56,0,0" LoadedBehavior="Manual" IsManipulationEnabled="True">
+            <MediaElement.OpacityMask>
+                <ImageBrush/>
+            </MediaElement.OpacityMask>
+        </MediaElement>
+        <ToolBarTray HorizontalAlignment="Left" Height="56" VerticalAlignment="Top" Width="517">
+            <ToolBar x:Name="toolBar" HorizontalAlignment="Left" Height="56" VerticalAlignment="Top" Width="517" Margin="0,0,-493,-43">
+                <Button x:Name="_new1">
+                    <Image Source="Icons/neu.png"/>
+                </Button>
+                <Button x:Name="play1">
+                    <Image Source="Icons/play.png"/>
+                </Button>
+                <Button x:Name="stop1" Click="stop1_Click">
+                    <Image Source="Icons/stop.png"/>
+                </Button>
+                <Button x:Name="zurueck1" Click="zurueck1_Click">
+                    <Image Source="Icons/zurueck.png"/>
+                </Button>
+                <Button x:Name="pause1" Click="pause1_Click">
+                    <Image Source="Icons/pause.png"/>
+                </Button>
+                <Button x:Name="vor1" Click="vor1_Click">
+                    <Image Source="Icons/vor.png"/>
+                </Button>
+                <Button x:Name="open1" Click="open1_Click">
+                    <Image Source="Icons/oeffnen.png"/>
+                </Button>
+                <Button x:Name="menu1">
+                    <Image Source="Icons/appmenu.png"/>
+                </Button>
+            </ToolBar>
+
+        </ToolBarTray>
+        <Label x:Name="label" Content="No name" HorizontalAlignment="Left" Margin="10,61,0,0" VerticalAlignment="Top"/>
+        <Slider x:Name="slider" Margin="404,174,-41,0" VerticalAlignment="Top" Height="27" RenderTransformOrigin="0.5,0.5" MouseWheel="slider_MouseWheel">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Label x:Name="label1" Content="0" Margin="10,267,399,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

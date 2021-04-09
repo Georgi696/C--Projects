@@ -1,0 +1,29 @@
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\bin\Debug\Mal Programm.exe.config
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\bin\Debug\Mal Programm.exe
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\bin\Debug\Mal Programm.pdb
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm.csprojResolveAssemblyReference.cache
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\MainWindow.g.cs
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\App.g.cs
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm_MarkupCompile.cache
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm_MarkupCompile.lref
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\MainWindow.baml
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm.g.resources
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal_Programm.Properties.Resources.resources
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm.csproj.GenerateResource.Cache
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm.exe
+c:\users\aleks\documents\visual studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm.pdb
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\bin\Debug\Mal Programm.exe.config
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\bin\Debug\Mal Programm.exe
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\bin\Debug\Mal Programm.pdb
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm.csprojAssemblyReference.cache
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\MainWindow.g.cs
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\App.g.cs
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm_MarkupCompile.cache
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm_MarkupCompile.lref
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\MainWindow.baml
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm.g.resources
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal_Programm.Properties.Resources.resources
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm.csproj.GenerateResource.cache
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm.csproj.CoreCompileInputs.cache
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm.exe
+D:\Programme\Visual Studio 2015\Projects\Mal Programm\Mal Programm\obj\Debug\Mal Programm.pdb

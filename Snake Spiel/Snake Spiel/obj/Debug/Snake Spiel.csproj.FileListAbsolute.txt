@@ -1,0 +1,29 @@
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\bin\Debug\Snake Spiel.exe.config
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\bin\Debug\Snake Spiel.exe
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\bin\Debug\Snake Spiel.pdb
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel.csprojResolveAssemblyReference.cache
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\MainWindow.g.cs
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\App.g.cs
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel_MarkupCompile.cache
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel_MarkupCompile.lref
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\MainWindow.baml
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel.g.resources
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake_Spiel.Properties.Resources.resources
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel.csproj.GenerateResource.Cache
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel.exe
+c:\users\aleks\documents\visual studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel.pdb
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\bin\Debug\Snake Spiel.exe.config
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\bin\Debug\Snake Spiel.exe
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\bin\Debug\Snake Spiel.pdb
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel.csprojAssemblyReference.cache
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\MainWindow.g.cs
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\App.g.cs
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel_MarkupCompile.cache
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel_MarkupCompile.lref
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\MainWindow.baml
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel.g.resources
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake_Spiel.Properties.Resources.resources
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel.csproj.GenerateResource.cache
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel.csproj.CoreCompileInputs.cache
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel.exe
+D:\Programme\Visual Studio 2015\Projects\Snake Spiel\Snake Spiel\obj\Debug\Snake Spiel.pdb
